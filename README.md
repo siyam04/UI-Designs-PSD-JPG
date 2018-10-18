@@ -1,9 +1,7 @@
 # Sample of some user interface designs using Adobe photoshop and illustrator CC.
 
 ## University Java GUI project
-* Home
 ![log in final](https://user-images.githubusercontent.com/23103980/47140939-5c21e580-d2e1-11e8-8eae-85a9f14e6778.jpg)
-* Dashboard
 ![panel final](https://user-images.githubusercontent.com/23103980/47141001-7bb90e00-d2e1-11e8-8f6b-38510585ddae.jpg)
 
 ## Evenstick theme mirror-copy 
